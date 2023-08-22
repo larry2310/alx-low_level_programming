@@ -1,1 +1,1 @@
-0x05-pointers_arrays_strings is a Readme file
+0x05. C - Pointers, arrays and strings is a Readme File
